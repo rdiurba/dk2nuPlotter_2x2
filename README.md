@@ -1,4 +1,4 @@
-Code from the DUNE beam simulation group repurposed to be used for the 2x2 neutrino flux simulation to allow histogram portability. Its energy range and z-position altered. The position of the detector relative to the beam is found here: https://github.com/DUNE/2x2_sim/blob/main/run-edep-sim/flux/GNuMIFlux.xml. The max energy was changed to 40 GeV as that is where the NuMI ME beam converges to 0. 
+Code from the DUNE beam simulation group repurposed to be used for the 2x2 neutrino flux simulation to allow histogram portability. Its energy range and z-position altered. The position of the detector relative to the beam is found here: https://github.com/DUNE/2x2_sim/blob/main/run-edep-sim/flux/GNuMIFlux.xml. The max energy was changed to 40 GeV as that is where the NuMI ME beam converges to 0. The exact official code from the DUNE Beam Sim group is here: https://cdcvs.fnal.gov/redmine/projects/lbne-beamsim/repository/revisions/2dfb90abe429f0f5a8622113ffe0dae7a4bd5145
 
 Instructions for Fermilab machines:
 
