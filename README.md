@@ -5,7 +5,7 @@ Instructions for Fermilab machines:
 `source setup_dk2nuplotter.sh
 `
 
-Grab the dk2nu files from NERSC put them somewhere safe
+Grab the dk2nu files from NERSC (https://portal.nersc.gov/project/dune/data/misc/NuMI_dk2nu/) put them somewhere safe
 Run the compiler using the instructions at the top of beamHist2x2.cc
 
 `./beamHist -i "/path/to/files/*.dk2nu" -o testFHC.root -r 67 -t 4
